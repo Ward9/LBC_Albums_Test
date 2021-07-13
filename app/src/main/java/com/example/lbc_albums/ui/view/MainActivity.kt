@@ -1,7 +1,8 @@
-package com.example.lbc_albums
+package com.example.lbc_albums.ui.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.lbc_albums.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
